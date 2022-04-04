@@ -1,0 +1,6 @@
+[Info]:[String]:Info
+[Info]:[String]:Warning
+[Info]:[String]:Error
+[Info]:[Int32]:Info
+[Info]:[Int32]:Warning
+[Info]:[Int32]:Error
